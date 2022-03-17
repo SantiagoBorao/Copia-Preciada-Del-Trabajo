@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old leather furniture
+* source:	https://sketchfab.com/3d-models/old-leather-furniture-5f0fe7ebcf4146869be789612f8928a4
+* author:	Andrey_Dega (https://sketchfab.com/Andrey_Dega)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old leather furniture" (https://sketchfab.com/3d-models/old-leather-furniture-5f0fe7ebcf4146869be789612f8928a4) by Andrey_Dega (https://sketchfab.com/Andrey_Dega) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

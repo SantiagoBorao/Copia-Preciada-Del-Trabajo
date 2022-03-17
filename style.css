@@ -1,0 +1,19 @@
+#overlay {
+  padding: 15px;
+}
+
+#overlay > button {
+  color: white;
+  background-color: black;
+  font-size: 1.2rem;
+}
+
+#borrar {
+  color: rgb(0, 0, 0);
+  background-color: rgb(56, 72, 223);
+  font-size: 1.2rem;
+  border: 1px dotted rgb(0, 0, 0);
+  position: absolute;
+  top: 20px;
+  right: 15;
+}
